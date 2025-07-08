@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         fuck-jr-central-oshi-tabi-speedtest
-// @namespace    https://github.com/kiritokxiriko/fuck-jr-central-oshi-tabi-speedtest
+// @namespace    https://github.com/kiritoxkiriko/fuck-jr-central-oshi-tabi-speedtest
 // @version      0.1
 // @description  去他妈的JR东日本 推し旅 活动测速
 // @author       kiritoxkiriko
