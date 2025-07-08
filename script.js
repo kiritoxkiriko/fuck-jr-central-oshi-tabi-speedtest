@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         fuck-jr-central-oshi-tabi-speed-test
-// @namespace    https://github.com/kiritokxiriko/fuck-jr-central-oshi-tabi-speed-test
-// @version      1.0
+// @name         fuck-jr-central-oshi-tabi-speedtest
+// @namespace    https://github.com/kiritokxiriko/fuck-jr-central-oshi-tabi-speedtest
+// @version      v0.1
 // @description  去他妈的JR东日本 推し旅 活动测速
 // @author       kiritoxkiriko
 // @match        https://oshi-tabi.voistock.com/*
