@@ -19,7 +19,7 @@ F12 进入 devtools发现是在前端通过调用浏览器的 navigator API 来�
 同时还会判断当前经纬度是否在一组范围中，搞笑的是前端直接在 console 帮我们把 array打印出来了 
 <img src="img/img_5.png" alt="img_5" width="600">  
 
-我们只需要hook浏览器的 navigator.geolocation.watchPosition, 让他返回一个固定的速度，和一个在范围内的随机经纬度即可
+我们只需要hook浏览器的 navigator.geolocation.watchPosition，让他返回一个固定的速度，和一个在范围内的随机经纬度即可
 
 
 
