@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         fuck-jr-central-oshi-tabi-speedtest
 // @namespace    https://github.com/kiritoxkiriko/fuck-jr-central-oshi-tabi-speedtest
-// @version      0.1
+// @version      0.2
 // @description  去他妈的JR东日本 推し旅 活动测速
 // @author       kiritoxkiriko
 // @match        https://oshi-tabi.voistock.com/*
 // @match        https://recommend.jr-central.co.jp/oshi-tabi/*
+// @updateURL    https://raw.githubusercontent.com/kiritoxkiriko/fuck-jr-central-oshi-tabi-speedtest/refs/heads/main/script.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -62,4 +63,6 @@
     // navigator.geolocation.getCurrentPosition = function(success, error, options) {
     //     success(createPosition());
     // };
+
+    alert("fuck 成功，可以测速了")
 })();
